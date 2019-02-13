@@ -1,2 +1,2 @@
 # python_selenium
-Contains testS FER WEB
+Contains tests for WEB
